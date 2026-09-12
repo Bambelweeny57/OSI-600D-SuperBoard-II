@@ -1,0 +1,327 @@
+(footprint "Fuseholder_Clip-6.3x32mm_Littelfuse_102_Inline_P34.21x7.62mm_D2.54mm_Horizontal"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 102 Bowed Leads, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_102_122_datasheet.pdf.pdf")
+	(tags "fuse clip open")
+	(property "Reference" "REF**"
+		(at 17.1 -5 0)
+		(layer "F.SilkS")
+		(uuid "0338de69-8929-4500-92ef-fbee1f20cc83")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Fuseholder_Clip-6.3x32mm_Littelfuse_102_Inline_P34.21x7.62mm_D2.54mm_Horizontal"
+		(at 17.1 5 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "720e2383-afdb-42c3-a79c-b27e55f2948c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eec8a1d9-5041-4b54-868d-b8cba99613e1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "03d87174-ef13-4891-a0be-a94bda4c2886")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.143 4.19)
+		(end -1.143 2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1f6d4836-83cc-4ced-a5ee-2267b159059a")
+	)
+	(fp_line
+		(start -1.016 -4.19)
+		(end -1.016 -2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7c1c521c-e553-4f28-b4eb-0e46f9be9346")
+	)
+	(fp_line
+		(start 8.382 4.19)
+		(end -1.143 4.19)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5a02dddc-e9f8-4e02-bb40-66298a1b8dfe")
+	)
+	(fp_line
+		(start 8.382 4.19)
+		(end 8.382 2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b058e832-74e9-4fbd-9831-db29881bc080")
+	)
+	(fp_line
+		(start 8.509 -4.19)
+		(end -1.016 -4.19)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "861567e2-a71f-4c12-8e1c-f9ebc4826905")
+	)
+	(fp_line
+		(start 8.509 -4.19)
+		(end 8.509 -2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e094d298-c9f5-4a50-b80c-d76eb40b8a98")
+	)
+	(fp_line
+		(start 26.36 -3.175)
+		(end 8.509 -3.175)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "27007fb2-7469-4963-81b4-40b938d9ded6")
+	)
+	(fp_line
+		(start 26.36 3.175)
+		(end 8.382 3.175)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7d693f3a-9ef3-4cf8-a386-0a655c76f7fc")
+	)
+	(fp_line
+		(start 26.416 4.19)
+		(end 26.416 2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "22f81a6c-efdd-4043-a59e-bd2140119934")
+	)
+	(fp_line
+		(start 26.416 4.19)
+		(end 35.941 4.19)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9747049f-2ac2-4c21-9a2f-c9ae9414001f")
+	)
+	(fp_line
+		(start 26.543 -4.19)
+		(end 26.543 -2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7f34b178-b699-4a0f-8c9f-804b15f42f12")
+	)
+	(fp_line
+		(start 26.543 -4.19)
+		(end 36.068 -4.19)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4fb50273-43e9-4b34-b89d-4b4242676932")
+	)
+	(fp_line
+		(start 35.941 4.19)
+		(end 35.941 2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ec81d498-8167-4e64-9166-f5da076e74c8")
+	)
+	(fp_line
+		(start 36.068 -4.19)
+		(end 36.068 -2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c352c039-f031-4389-8e63-e1a08464b30f")
+	)
+	(fp_line
+		(start -1.397 -4.44)
+		(end 36.21 -4.44)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f2225ddf-e39b-48e5-bc6b-8ab756cc623d")
+	)
+	(fp_line
+		(start -1.397 -4.435)
+		(end -1.397 4.445)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "67befa69-c262-4576-aecc-2a9a50741046")
+	)
+	(fp_line
+		(start 36.195 4.44)
+		(end -1.397 4.44)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "58299949-6b68-4957-b782-3ab82c813069")
+	)
+	(fp_line
+		(start 36.21 4.44)
+		(end 36.21 -4.44)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "03f905ac-bc27-4b12-abc3-3b561ad06b19")
+	)
+	(fp_line
+		(start -0.185 -4.19)
+		(end 7.85 -4.19)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2608165d-2e5a-4b86-884c-32d28acf13d9")
+	)
+	(fp_line
+		(start 7.85 4.19)
+		(end -0.185 4.19)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ff8a72e4-58bd-463c-a069-57f67d94e931")
+	)
+	(pad "1" thru_hole roundrect
+		(at 0.6985 0)
+		(size 3.5 3.5)
+		(drill 2.54)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "83d583d0-e40a-41a5-bdc3-4421ecae3bb7")
+	)
+	(pad "1" thru_hole roundrect
+		(at 8.3979 0)
+		(size 3.5 3.5)
+		(drill 2.54)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "9a741a76-a930-494f-898a-67c3f3a8b93d")
+	)
+	(pad "2" thru_hole circle
+		(at 25.9397 0)
+		(size 3.5 3.5)
+		(drill 2.54)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f3249933-e11b-4c34-95b4-dcbad73f6d29")
+	)
+	(pad "2" thru_hole circle
+		(at 33.401 0)
+		(size 3.5 3.5)
+		(drill 2.54)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bbae4169-602c-4ad4-a73a-24bbd310684d")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/STPS/05200001.step"
+		(offset
+			(xyz 1.25 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KIPRJMOD}/STPS/05200001.step"
+		(offset
+			(xyz 33.25 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -180)
+		)
+	)
+	(model "${KIPRJMOD}/STPS/Mini fuse 6_3x32 500V v1.step"
+		(offset
+			(xyz 1.25 0 7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -90 -0)
+		)
+	)
+)
