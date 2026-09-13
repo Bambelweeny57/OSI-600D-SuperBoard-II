@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.8,
-          "height": 1.4,
-          "width": 1.4
+          "height": 1.6,
+          "width": 2.4
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -69,65 +69,14 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        [
-          "courtyards_overlap|151921000|103280000|a1d37538-ce5c-4ddf-bb20-b2a1f7446157|f6a09308-53ae-4538-b0cf-9a0c98608177",
-          ""
-        ],
-        [
-          "courtyards_overlap|398018000|365154000|33f6b365-3253-4a61-b9c2-09dedc948a9f|ead59723-4c82-48b7-bc5d-f6a44de0e525",
-          ""
-        ],
-        [
-          "courtyards_overlap|400558000|365154000|ead59723-4c82-48b7-bc5d-f6a44de0e525|f26bc816-3578-41a8-bbfb-98af81d69bda",
-          ""
-        ],
-        [
-          "courtyards_overlap|402890069|365154000|cd493658-aa31-4732-b0a8-1307ec96c881|f26bc816-3578-41a8-bbfb-98af81d69bda",
-          ""
-        ],
-        [
-          "courtyards_overlap|405638000|365125000|c5fbcf7c-708a-4421-b642-584baf1d6128|cd493658-aa31-4732-b0a8-1307ec96c881",
-          ""
-        ],
-        [
-          "invalid_outline|144030001|27874999|07392739-a573-479c-bcb1-bcac0a655c85|07392739-a573-479c-bcb1-bcac0a655c85",
-          ""
-        ],
-        [
-          "invalid_outline|168007740|27569858|07392739-a573-479c-bcb1-bcac0a655c85|54f77ae0-38a6-446c-ba9e-c7bef443fde3",
-          ""
-        ],
-        [
-          "invalid_outline|291080001|27884999|f5877c39-fe93-4ecf-8cdc-37cca403a7b5|f5877c39-fe93-4ecf-8cdc-37cca403a7b5",
-          ""
-        ],
-        [
-          "shorting_items|124767080|48049956|8b662797-f8e4-4c76-b595-e706d49a763f|d38ecbf9-a39b-42f7-8fc0-e8658e4c19f0",
-          ""
-        ],
-        [
-          "shorting_items|126210001|35810000|d38ecbf9-a39b-42f7-8fc0-e8658e4c19f0|f155c428-0399-4843-8cd8-caf019b943b3",
-          ""
-        ],
-        [
-          "shorting_items|138090000|35810000|09a1beba-8f66-4ec2-aba0-df009cec2433|bb2e878a-a8db-41de-bf2c-5574de8811ae",
-          ""
-        ],
-        [
-          "shorting_items|178957362|63643517|3e3d07c2-41ce-4293-a023-f34d77b1d255|746ed018-6531-43ce-afc8-b666b3cb2a24",
-          ""
-        ],
-        [
-          "shorting_items|312859998|35820000|0a91a345-2799-42a1-a8f0-55e38691c68a|6a14787a-f74d-4a7a-a0b6-67129674caae",
-          ""
-        ],
-        [
-          "shorting_items|412408851|337526207|8219705c-fec4-4ce3-8692-b1039fa25fc6|8c8cc86d-bfcf-45d5-a815-c3270fc8edbf",
-          ""
-        ]
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
       ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -260,7 +209,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -287,7 +238,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
