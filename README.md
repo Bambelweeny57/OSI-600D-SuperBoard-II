@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/osi-600d-banner.png" width="100%" alt="OSI 600D Superboard II Banner">
+  <img src="https://github.com/Bambelweeny57/OSI-600D-SuperBoard-II/blob/main/images/osi-600d-banner.png" width="100%" alt="OSI 600D Superboard II Banner">
 </p>
 
 ### Ohio Scientific (OSI) 600D Superboard II Recreation
