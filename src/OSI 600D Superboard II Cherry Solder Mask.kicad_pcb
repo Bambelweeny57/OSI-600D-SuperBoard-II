@@ -145,7 +145,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-8_W7.62mm_LongPads"
+		(property "Value" "?"
 			(at 3.81 9.95 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -427,7 +427,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS174"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -773,7 +773,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "?"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1103,7 +1103,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS02"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1591,7 +1591,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS20"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1921,7 +1921,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "?"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5013,7 +5013,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS75"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5359,7 +5359,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS138"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6021,7 +6021,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "?"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8688,7 +8688,7 @@
 				)
 			)
 		)
-		(property "Value" "6502"
+		(property "Value" "DIP40"
 			(at 7.62 50.59 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10816,7 +10816,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS00"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11302,7 +11302,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS14"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12952,7 +12952,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS163"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15414,7 +15414,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-8_W7.62mm_LongPads"
+		(property "Value" "?"
 			(at 3.81 9.95 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18954,7 +18954,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS03"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22876,7 +22876,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS123"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23222,7 +23222,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS163"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28174,7 +28174,7 @@
 				)
 			)
 		)
-		(property "Value" "D_DO-35_SOD27_P12.70mm_Horizontal"
+		(property "Value" "1N4001"
 			(at 6.35 2.12 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -30705,7 +30705,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "T828"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31207,7 +31207,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "8T28"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31553,7 +31553,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS163"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36073,7 +36073,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "8T28"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -37819,7 +37819,7 @@
 				)
 			)
 		)
-		(property "Value" "CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+		(property "Value" "47uf"
 			(at 7.5 3.37 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -38493,7 +38493,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS86"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -39741,7 +39741,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS123"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -42312,7 +42312,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "DIP16"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -42970,7 +42970,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS125"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -43300,7 +43300,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS74"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -43786,7 +43786,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS159"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -48166,7 +48166,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS74"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -48654,7 +48654,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "8T28"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -49000,7 +49000,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS157"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -50162,7 +50162,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS20"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -50720,7 +50720,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS76"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -52068,7 +52068,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS04"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -53736,7 +53736,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "T828"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -54360,7 +54360,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS157"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -54706,7 +54706,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS163"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -55526,7 +55526,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS163"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -61146,7 +61146,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS17"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -61910,7 +61910,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS165"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -63038,7 +63038,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS175"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -63746,7 +63746,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS125"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -64740,7 +64740,7 @@
 				)
 			)
 		)
-		(property "Value" "7803"
+		(property "Value" "74LS04"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -68227,7 +68227,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS75"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -68573,7 +68573,7 @@
 				)
 			)
 		)
-		(property "Value" "DIP-16_W7.62mm_LongPads"
+		(property "Value" "74LS157"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
 			(hide yes)
