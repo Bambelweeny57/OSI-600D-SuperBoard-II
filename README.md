@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Images/osi-600d-banner.png" width="100%" alt="OSI 600D Superboard II Banner">
+</p>
+
 ### Ohio Scientific (OSI) 600D Superboard II Recreation
 
 This repository contains an open-source hardware recreation of the **600D variant** of the classic 1978 Ohio Scientific Superboard II single-board computer. 
