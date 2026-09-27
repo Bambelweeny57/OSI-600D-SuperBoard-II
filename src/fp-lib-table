@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "OSI") (type "KiCad") (uri "${KIPRJMOD}/footprints/OSI.pretty") (options "") (descr ""))
 	(lib (name "OSI") (type "KiCad") (uri "${KIPRJMOD}/OSI.pretty") (options "") (descr ""))
+	(lib (name "OSI") (type "KiCad") (uri "${KIPRJMOD}/OSI.pretty") (options "") (descr ""))
 )

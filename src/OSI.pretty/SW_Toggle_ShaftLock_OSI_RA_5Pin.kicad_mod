@@ -1,0 +1,61 @@
+(footprint "SW_Toggle_ShaftLock_OSI_RA_5Pin"
+  (version 20221018)
+  (generator "manual")
+  (layer "F.Cu")
+  (descr "Right-angle, lays-flat toggle switch, OSI 600D Shaft Lock, 5-pin (3 rear electrical, 2 front mechanical)")
+  (tags "toggle switch right angle OSI Superboard Shaft Lock")
+
+  (attr through_hole)
+
+  (fp_text reference "SW?" (at 0 -3) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "SW_Toggle_ShaftLock_OSI" (at 0 10) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+
+  ; Body outline (approx 18 x 10 mm)
+  (fp_line (start -9 -1) (end 9 -1) (layer "F.SilkS") (width 0.15))
+  (fp_line (start 9 -1) (end 9 9) (layer "F.SilkS") (width 0.15))
+  (fp_line (start 9 9) (end -9 9) (layer "F.SilkS") (width 0.15))
+  (fp_line (start -9 9) (end -9 -1) (layer "F.SilkS") (width 0.15))
+
+  ; Courtyard
+  (fp_line (start -10 -2) (end 10 -2) (layer "F.CrtYd") (width 0.05))
+  (fp_line (start 10 -2) (end 10 11) (layer "F.CrtYd") (width 0.05))
+  (fp_line (start 10 11) (end -10 11) (layer "F.CrtYd") (width 0.05))
+  (fp_line (start -10 11) (end -10 -2) (layer "F.CrtYd") (width 0.05))
+
+  ; Fab outline
+  (fp_line (start -9 -1) (end 9 -1) (layer "F.Fab") (width 0.1))
+  (fp_line (start 9 -1) (end 9 9) (layer "F.Fab") (width 0.1))
+  (fp_line (start 9 9) (end -9 9) (layer "F.Fab") (width 0.1))
+  (fp_line (start -9 9) (end -9 -1) (layer "F.Fab") (width 0.1))
+
+  ; Lever indication (optional)
+  (fp_line (start -2 9) (end 2 9) (layer "F.Fab") (width 0.1))
+  (fp_line (start 0 9) (end 0 11) (layer "F.Fab") (width 0.1))
+
+  ; Pads
+  ; Rear row (electrical) – 3 pins, 5.08 mm pitch
+  ; Pin 1: left, Pin 2: centre, Pin 3: right
+  (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.9) (layers "*.Cu" "*.Mask")
+    (pinfunction "A") (pintype "passive"))
+  (pad "2" thru_hole circle (at 5.08 0) (size 1.6 1.6) (drill 0.9) (layers "*.Cu" "*.Mask")
+    (pinfunction "C") (pintype "passive"))
+  (pad "3" thru_hole circle (at 10.16 0) (size 1.6 1.6) (drill 0.9) (layers "*.Cu" "*.Mask")
+    (pinfunction "B") (pintype "passive"))
+
+  ; Front row (mechanical/stabiliser) – 2 pins, 5.08 mm pitch
+  (pad "4" thru_hole oval (at 2.54 7.62) (size 1.8 2.2) (drill 0.9) (layers "*.Cu" "*.Mask")
+    (pinfunction "MECH1") (pintype "passive"))
+  (pad "5" thru_hole oval (at 7.62 7.62) (size 1.8 2.2) (drill 0.9) (layers "*.Cu" "*.Mask")
+    (pinfunction "MECH2") (pintype "passive"))
+
+  ; 3D model reference – adjust path to your library
+  (model "${KICAD6_3DMODEL_DIR}/Switch_THT.3dshapes/OSI_ShaftLock_Toggle.step"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
