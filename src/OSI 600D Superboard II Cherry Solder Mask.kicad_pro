@@ -41,7 +41,7 @@
         "pads": {
           "drill": 0.8,
           "height": 1.6,
-          "width": 2.4
+          "width": 1.6
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -537,7 +537,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "Gerbers/",
+      "plot": "../images/",
       "specctra_dsn": "",
       "step": "OSI 600D Superboard II Cherry Solder Mask.step",
       "vrml": ""
