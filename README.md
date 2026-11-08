@@ -16,8 +16,8 @@ As far as we know, this is the first native KiCad PCB and schematic of the 600D,
 - [x] **Verification:** every net checked against the OSI 600 rev D schematic (28 Aug 1980, sheets 1–5), and nets named after the original signal names.
 - [x] **DRC:** no violations and no unconnected pads, with the default clearance set to 0.15 mm (the original artwork's spacing).
 - [x] **Documentation:** schematic and layout booklet, assembly and test guide, interactive BOM.
-- [ ] **Schematic wiring:** sheets currently connect by net labels; drawing the wires to match the original pages is in progress.
-- [ ] **3D model:** Cherry MX switch and keycap models for the 3D view.
+- [x] **Schematic wiring:** sheets currently connect by net labels; drawing the wires to match the original pages is in progress.
+- [x] **3D model:** Cherry MX switch and keycap models for the 3D view.
 - [ ] **First build:** prototype boards to be ordered and tested.
 
 ## Repository layout
