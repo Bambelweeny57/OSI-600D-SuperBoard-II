@@ -4610,9 +4610,20 @@
 			(uuid "fd9b7e13-5c29-4101-af4a-755438157dc4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_3_E.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -5219,9 +5230,20 @@
 			(uuid "0987468d-cd5e-495e-8076-04321f93aac1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_24_B.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -7175,7 +7197,7 @@
 			(uuid "af8c5334-d3e8-4ed0-bb5b-2bfc55107367")
 		)
 		(embedded_fonts no)
-		(model "D:/Github/Repos/OSI-D600-SuperBoard-II/models/CAP-TH_BD6.3-L12.0-P20.32-D0.6.step"
+		(model "${KIPRJMOD}/../models/CAP-TH_BD6.3-L12.0-P20.32-D0.6.step"
 			(offset
 				(xyz 10 0 -1)
 			)
@@ -8497,9 +8519,20 @@
 			(uuid "055b2248-62e4-4a19-8a26-3c67c5f3fb59")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_45_0.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -9882,9 +9915,20 @@
 			(uuid "5716ae8c-8617-49ff-8c36-f54b17f48cb4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_4_R.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -11224,9 +11268,20 @@
 			(uuid "562ba6a6-b9e6-472c-8902-e11242c2ffc6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_40_5.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -13558,7 +13613,7 @@
 			(uuid "671552ef-40d6-464a-bf94-a459496ff5e0")
 		)
 		(embedded_fonts no)
-		(model "D:/Github/Repos/OSI-D600-SuperBoard-II/models/0009481124.stp"
+		(model "${KIPRJMOD}/../models/0009481124.stp"
 			(offset
 				(xyz 21.75 -9.75 -4)
 			)
@@ -17274,9 +17329,20 @@
 			(uuid "bb2c56f6-e933-48a6-811d-96e11fe0d831")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_30_ESC.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -17557,9 +17623,20 @@
 			(uuid "1606f900-5b87-43ee-942f-b56da2096b0a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_6_Y.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -17840,9 +17917,20 @@
 			(uuid "b42ec179-56b4-4556-9d9a-92de8c1fe6d8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.50u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_34_SHIFT1.5.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -18651,9 +18739,20 @@
 			(uuid "fbc87e70-5e8c-44df-9752-5bb76735220b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_5_T.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -19171,9 +19270,20 @@
 			(uuid "db49420e-e2de-4260-b0fb-5344b8caf0eb")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_18_K.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -23083,9 +23193,20 @@
 			(uuid "5077bee1-1814-4a93-a85d-a98781bc825e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_25_N.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -23366,9 +23487,20 @@
 			(uuid "ad4d30a1-2e97-4b88-9f3d-fad775c11f86")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_23_V.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -23649,9 +23781,20 @@
 			(uuid "aceef390-7df6-4765-8769-fc0a8fe9fd52")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_20_Z.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -23932,9 +24075,20 @@
 			(uuid "c4b374f4-5c66-4f5c-a0c0-9a38f66713c6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_8_I.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -28103,9 +28257,20 @@
 			(uuid "223bdf1c-8ac2-436d-ba40-418da0153a64")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_44_9.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -28386,9 +28551,20 @@
 			(uuid "4dc6b612-011e-4bd6-81dd-a7170cec0f43")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_47_MINUS.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -30279,9 +30455,20 @@
 			(uuid "2748c1d8-e921-44a0-8b95-3cda25e0c5b2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_26_M.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -30562,9 +30749,20 @@
 			(uuid "2a3c6078-f05a-41be-ad91-67b81a16b4ab")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_48_SEMICOLON.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -32665,9 +32863,20 @@
 			(uuid "5b4b266f-91d6-46a4-a5b2-bad3d016298d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_31_CTRL.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -33729,7 +33938,7 @@
 			(uuid "1f4785e8-17ee-4bd1-8168-dd5207ed2eaa")
 		)
 		(embedded_fonts no)
-		(model "D:/Github/Repos/zxspectrum_issue3b/src/STPS/DO-35_P12.70-D0.53.step"
+		(model "kicad-embed://DO-35_P12.70-D0.53.step"
 			(offset
 				(xyz 2.5 0 -0.5)
 			)
@@ -34682,9 +34891,20 @@
 			(uuid "1948bb1b-7c3c-4342-a9cc-70c31f8b2835")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_28_LineFeed.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -37461,7 +37681,7 @@
 			(uuid "a083f7fc-3182-4034-86da-785d791229bb")
 		)
 		(embedded_fonts no)
-		(model "D:/Github/Repos/OSI-D600-SuperBoard-II/models/400MSPxR6xxxM6xE.stp"
+		(model "${KIPRJMOD}/../models/400MSPxR6xxxM6xE.stp"
 			(offset
 				(xyz -0.125 1.5 3)
 			)
@@ -38127,9 +38347,20 @@
 			(uuid "a485655f-2e0b-4f5b-8e5e-0c90738523dd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_19_L.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -39406,9 +39637,20 @@
 			(uuid "4fe606f6-1b2f-4a27-b43a-74ddfe93069d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_36_1.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -39689,9 +39931,20 @@
 			(uuid "354b8380-a113-42dc-b3ac-1ce39aa63c95")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_46_COLON.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -39972,9 +40225,20 @@
 			(uuid "fa8aeab3-cac5-4da0-840e-12401b8c4c41")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_2_W.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -42372,9 +42636,20 @@
 			(uuid "d9b7bd8e-1a44-4459-9a0c-c6dba9d0cffd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_14_F.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -43092,9 +43367,20 @@
 			(uuid "51986572-cd41-49f6-9eb3-bde48690916f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_13_D.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -43375,9 +43661,20 @@
 			(uuid "b0bca05f-2913-4594-b7b9-655778f2c160")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_27_RubOut.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -43776,7 +44073,7 @@
 			(uuid "669820d1-2364-4e84-8965-98835cf50409")
 		)
 		(embedded_fonts no)
-		(model "D:/Github/Repos/OSI-D600-SuperBoard-II/models/CAP-TH_BD6.3-L12.0-P20.32-D0.6.step"
+		(model "${KIPRJMOD}/../models/CAP-TH_BD6.3-L12.0-P20.32-D0.6.step"
 			(offset
 				(xyz 7.5 0 0)
 			)
@@ -44059,9 +44356,20 @@
 			(uuid "89f6b5ae-3f9b-4df2-ba32-f01fa1b5d2dc")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_16_H.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -44785,7 +45093,7 @@
 			(uuid "8adb43fd-3544-4838-a2a4-25e7b592455e")
 		)
 		(embedded_fonts no)
-		(model "D:/Github/Repos/OSI-D600-SuperBoard-II/models/0009481124.stp"
+		(model "${KIPRJMOD}/../models/0009481124.stp"
 			(offset
 				(xyz 21.75 -9.75 -4)
 			)
@@ -45564,9 +45872,20 @@
 			(uuid "394049bb-ae99-4fa5-a6ad-c11c22e3df34")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_11_A.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -46608,9 +46927,20 @@
 			(uuid "ad22bfaa-effc-4e4f-984c-5c7dc86d6530")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_50_PERIOD.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -47537,9 +47867,20 @@
 			(uuid "04a32cbe-981f-42dd-be44-b351175a9a3e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_7_U.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -47820,9 +48161,20 @@
 			(uuid "473b6929-339d-4130-a10e-b134dedbde34")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_43_8.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -48440,9 +48792,20 @@
 			(uuid "00b7830a-69f1-4c0a-9dfb-5cd72c03013e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_12_S.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -50950,9 +51313,20 @@
 			(uuid "cab85f46-3122-45ad-9c03-2cec772d2459")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.50u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_34_SHIFT1.5.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -52135,9 +52509,20 @@
 			(uuid "c86b137f-8588-4871-8e40-ca650dc2c3be")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_1_Q.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -53315,9 +53700,20 @@
 			(uuid "cae8a88e-d155-4097-b5ba-c61e69414fe4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_38_3.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -53665,9 +54061,20 @@
 			(uuid "e9291828-e587-453c-ad4a-4e20ef362218")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_33_BREAK.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -53948,9 +54355,20 @@
 			(uuid "2362fa9f-d220-47e1-b3f5-2d9a02912b01")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_29_SHIFT_LOCK.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -54555,9 +54973,20 @@
 			(uuid "9a5ebf54-76a3-42a5-a15c-eff0cfbb9ef6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_15_G.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -56607,9 +57036,20 @@
 			(uuid "3edce7c5-7170-4b97-9b06-a0e198a32a4f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_37_2.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -58385,9 +58825,20 @@
 			(uuid "8a5230ee-9b25-42b5-a8cd-789033798e23")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_22_C.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -60300,9 +60751,20 @@
 			(uuid "cfddb6d8-54cd-46c3-9d37-94560b1e9a14")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_39_4.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -61783,7 +62245,7 @@
 			(uuid "dd193488-31fa-4e14-bbd2-4aab5461082d")
 		)
 		(embedded_fonts no)
-		(model "D:/Github/Repos/OSI-D600-SuperBoard-II/models/CAP-TH_BD6.3-L12.0-P20.32-D0.6.step"
+		(model "${KIPRJMOD}/../models/CAP-TH_BD6.3-L12.0-P20.32-D0.6.step"
 			(offset
 				(xyz 10 0 -1)
 			)
@@ -62664,9 +63126,20 @@
 			(uuid "d47363e4-9cec-4697-9974-5e6ced2bfb3f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_21_X.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -67306,9 +67779,20 @@
 			(uuid "1c2e3503-7a57-4b12-92e7-3656e84dff03")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_32_REPEAT.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -67915,9 +68399,20 @@
 			(uuid "6a2da2e7-345a-4969-a36e-d242b897fb88")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_51_SLASH.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -68858,9 +69353,20 @@
 			(uuid "cfeaab08-e1a8-4b54-9399-63509833ca3b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_41_6.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -69141,9 +69647,20 @@
 			(uuid "a5b956bd-bbb0-4db5-81f0-172d15e116d6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_49_COMMA.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -70413,9 +70930,20 @@
 			(uuid "8a022d84-4a14-47b3-9c81-de3310d95090")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_52_Space_bar.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -71749,9 +72277,20 @@
 			(uuid "06842ab4-f599-4dcb-9f20-35ed927158b0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_17_J.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -73290,9 +73829,20 @@
 			(uuid "6b33dc03-caa5-49f2-870c-12d29e44ed8f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.50u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_35_RETURN1.5.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -74324,9 +74874,20 @@
 			(uuid "27688048-186c-41b7-8726-7271335ad569")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_10_P.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -74844,9 +75405,20 @@
 			(uuid "5650f096-28e6-4feb-b6d9-8c2e1fc1cf61")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_42_7.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -78519,9 +79091,20 @@
 			(uuid "161fd693-ace3-4624-9017-136b829a4bc2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/../models/REDragon-MX-ZT02.stp"
 			(offset
+				(xyz -2.54 -5.08 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../models/keycaps/Keycap_9_O.wrl"
+			(offset
+				(xyz -2.54 -5.08 7.5)
 			)
 			(scale
 				(xyz 1 1 1)

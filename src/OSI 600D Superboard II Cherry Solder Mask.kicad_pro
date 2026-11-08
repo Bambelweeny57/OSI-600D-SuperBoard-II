@@ -253,7 +253,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "0.6"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -681,6 +681,26 @@
     [
       "5ba1e6be-1b1a-4418-8eec-dfb309da036a",
       ""
+    ],
+    [
+      "dcad1bb6-ff1b-54cc-9d2b-d8245d43fdf5",
+      "1 - CPU, bus buffers, monitor ROM, ACIA"
+    ],
+    [
+      "1b9c0eb3-be11-5953-9ea6-19d1f574d69a",
+      "2 - Program RAM, BASIC ROMs, address decode"
+    ],
+    [
+      "e78c9e50-6098-5c89-9a46-eace362b3a5d",
+      "3 - Oscillator, video timing, cassette, RS-232"
+    ],
+    [
+      "19adda28-ba51-5a08-a046-9925d44789bc",
+      "4 - Video RAM, colour RAM, character generator"
+    ],
+    [
+      "c0593057-08a5-50cc-a9aa-641e5cbd900b",
+      "5 - Keyboard, sound DAC, reset, power"
     ]
   ],
   "text_variables": {},

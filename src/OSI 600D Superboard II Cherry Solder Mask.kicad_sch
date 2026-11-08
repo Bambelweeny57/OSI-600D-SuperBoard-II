@@ -13,65 +13,6 @@
 		(comment 2 "Follows OSI 600 rev D schematic, 28 Aug 1980, sheet 1-5 of 5")
 	)
 	(lib_symbols)
-	(text "OSI SUPERBOARD II MODEL 600D - CHERRY KEYSWITCH VERSION"
-		(exclude_from_sim no)
-		(at 25 30 0)
-		(effects
-			(font
-				(size 4 4)
-				(thickness 0.5)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "b7d9aa23-d23a-5fb1-8280-9d9f4f79be6d")
-	)
-	(sheet
-		(at 25 50)
-		(size 105 60)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "dcad1bb6-ff1b-54cc-9d2b-d8245d43fdf5")
-		(property "Sheetname" "1 - CPU, bus buffers, monitor ROM, ACIA"
-			(at 25 49.2884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Sheet1_CPU_Bus_ACIA.kicad_sch"
-			(at 25 110.5846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "OSI 600D Superboard II Cherry Solder Mask"
-				(path "/5ba1e6be-1b1a-4418-8eec-dfb309da036a"
-					(page "2")
-				)
-			)
-		)
-	)
 	(text "32 parts"
 		(exclude_from_sim no)
 		(at 28 80 0)
@@ -84,52 +25,6 @@
 			(justify left bottom)
 		)
 		(uuid "14e4cba8-93a4-565a-ac54-e585911c1ce8")
-	)
-	(sheet
-		(at 150 50)
-		(size 105 60)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "1b9c0eb3-be11-5953-9ea6-19d1f574d69a")
-		(property "Sheetname" "2 - Program RAM, BASIC ROMs, address decode"
-			(at 150 49.2884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Sheet2_Memory_Decode.kicad_sch"
-			(at 150 110.5846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "OSI 600D Superboard II Cherry Solder Mask"
-				(path "/5ba1e6be-1b1a-4418-8eec-dfb309da036a"
-					(page "3")
-				)
-			)
-		)
 	)
 	(text "43 parts"
 		(exclude_from_sim no)
@@ -144,51 +39,57 @@
 		)
 		(uuid "a7002cd5-f7a2-5255-9c76-38c8a5478b2f")
 	)
-	(sheet
-		(at 275 50)
-		(size 105 60)
+	(text "Nets shared between sheets use global labels; nets local to one sheet use local labels."
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "e78c9e50-6098-5c89-9a46-eace362b3a5d")
-		(property "Sheetname" "3 - Oscillator, video timing, cassette, RS-232"
-			(at 275 49.2884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
+		(at 25 240 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
 			)
+			(justify left bottom)
 		)
-		(property "Sheetfile" "Sheet3_Timing_Serial_Cassette.kicad_sch"
-			(at 275 110.5846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
+		(uuid "ae7fda3c-cca4-5e30-b56c-ca5a929d79f8")
+	)
+	(text "35 parts"
+		(exclude_from_sim no)
+		(at 28 170 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+				(thickness 0.5)
+				(bold yes)
 			)
+			(justify left bottom)
 		)
-		(instances
-			(project "OSI 600D Superboard II Cherry Solder Mask"
-				(path "/5ba1e6be-1b1a-4418-8eec-dfb309da036a"
-					(page "4")
-				)
+		(uuid "b10f2522-d25b-5080-9e95-ba3935cdabb0")
+	)
+	(text "OSI SUPERBOARD II MODEL 600D - CHERRY KEYSWITCH VERSION"
+		(exclude_from_sim no)
+		(at 25 30 0)
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.5)
+				(bold yes)
 			)
+			(justify left bottom)
 		)
+		(uuid "b7d9aa23-d23a-5fb1-8280-9d9f4f79be6d")
+	)
+	(text "124 parts"
+		(exclude_from_sim no)
+		(at 153 170 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "bad46103-02cf-5346-bc5b-df1a2c10b116")
 	)
 	(text "66 parts"
 		(exclude_from_sim no)
@@ -216,7 +117,7 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "19adda28-ba51-5a08-a046-9925d44789bc")
 		(property "Sheetname" "4 - Video RAM, colour RAM, character generator"
@@ -249,18 +150,51 @@
 			)
 		)
 	)
-	(text "35 parts"
+	(sheet
+		(at 150 50)
+		(size 105 60)
 		(exclude_from_sim no)
-		(at 28 170 0)
-		(effects
-			(font
-				(size 2.5 2.5)
-				(thickness 0.5)
-				(bold yes)
-			)
-			(justify left bottom)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(uuid "b10f2522-d25b-5080-9e95-ba3935cdabb0")
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "1b9c0eb3-be11-5953-9ea6-19d1f574d69a")
+		(property "Sheetname" "2 - Program RAM, BASIC ROMs, address decode"
+			(at 150 49.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet2_Memory_Decode.kicad_sch"
+			(at 150 110.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OSI 600D Superboard II Cherry Solder Mask"
+				(path "/5ba1e6be-1b1a-4418-8eec-dfb309da036a"
+					(page "3")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 150 140)
@@ -275,7 +209,7 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "c0593057-08a5-50cc-a9aa-641e5cbd900b")
 		(property "Sheetname" "5 - Keyboard, sound DAC, reset, power"
@@ -308,31 +242,97 @@
 			)
 		)
 	)
-	(text "124 parts"
+	(sheet
+		(at 25 50)
+		(size 105 60)
 		(exclude_from_sim no)
-		(at 153 170 0)
-		(effects
-			(font
-				(size 2.5 2.5)
-				(thickness 0.5)
-				(bold yes)
-			)
-			(justify left bottom)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(uuid "bad46103-02cf-5346-bc5b-df1a2c10b116")
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "dcad1bb6-ff1b-54cc-9d2b-d8245d43fdf5")
+		(property "Sheetname" "1 - CPU, bus buffers, monitor ROM, ACIA"
+			(at 25 49.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet1_CPU_Bus_ACIA.kicad_sch"
+			(at 25 110.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OSI 600D Superboard II Cherry Solder Mask"
+				(path "/5ba1e6be-1b1a-4418-8eec-dfb309da036a"
+					(page "2")
+				)
+			)
+		)
 	)
-	(text "Nets shared between sheets use global labels; nets local to one sheet use local labels."
+	(sheet
+		(at 275 50)
+		(size 105 60)
 		(exclude_from_sim no)
-		(at 25 240 0)
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.5)
-				(bold yes)
-			)
-			(justify left bottom)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
 		)
-		(uuid "ae7fda3c-cca4-5e30-b56c-ca5a929d79f8")
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e78c9e50-6098-5c89-9a46-eace362b3a5d")
+		(property "Sheetname" "3 - Oscillator, video timing, cassette, RS-232"
+			(at 275 49.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet3_Timing_Serial_Cassette.kicad_sch"
+			(at 275 110.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OSI 600D Superboard II Cherry Solder Mask"
+				(path "/5ba1e6be-1b1a-4418-8eec-dfb309da036a"
+					(page "4")
+				)
+			)
+		)
 	)
 	(sheet_instances
 		(path "/"
